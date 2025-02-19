@@ -1,0 +1,30 @@
+
+.body {
+    display: flex;
+    justify-content: center;    
+}
+#div{
+    text-align: center; 
+    width: 500px;
+    background-color: rgb(203, 191, 191);
+    border-radius: 4px;
+    padding: 2%;
+}
+
+#label{
+    font-size: 10em;
+
+}
+.button{
+    font-size: 2.5em;
+    padding: 1px,1px;
+    border-radius: 6px;
+    border: 0px;
+    width: 70px;
+
+    
+
+}
+.button:hover{
+    background-color: rgb(155, 208, 126);
+}
